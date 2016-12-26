@@ -1,0 +1,13 @@
+<keymap version="1" name="XWin Improved" parent="Default for XWin">
+  <action id="InsertLiveTemplate" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="ShowProjectStructureSettings">
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+</keymap>
