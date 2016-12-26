@@ -1,0 +1,7 @@
+<code_scheme name="Default (1)">
+  <option name="LINE_SEPARATOR" value="&#10;" />
+  <ClojureCodeStyleSettings>{
+  :cursive.formatting/default-only-indent true
+  :cursive.formatting/imports-use-vectors true
+}</ClojureCodeStyleSettings>
+</code_scheme>
